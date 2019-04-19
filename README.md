@@ -11,7 +11,7 @@ This demo is intended to show AWS serverless capabilities. This application is u
  
  As the diagram is self-explanatory, I will add extra points to the design. API gateway have instroduced functionality to communicate with other AWS services directly. In previous version, this was used go via Lambda functions only. 
 
-![alt text](https://raw.githubusercontent.com/hardikrajani/moneyYouDemo/master/Screen%20Shot%202019-04-19%20at%2014.30.47.png)
+![alt text](https://raw.githubusercontent.com/hardikrajani/moneyYouDemo/master/design.png)
 
 ## Assumption
 
