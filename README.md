@@ -15,7 +15,7 @@ This demo is intended to show AWS serverless capabilities. This application is u
 
 ## Assumption
 
-CI / CD and cloudformation is assumed to be there. 
-For Security - IAM roles and policies are maintained. Other security measures like Authorization, OWASP can be considered while validation
-Error handling can be handled throughout the application. 
-NodeJS is used to speedup the demo.
+ - CI / CD and cloudformation is assumed to be there. 
+ - For Security - IAM roles and policies are maintained. Other security measures like Authorization, OWASP can be considered while validation
+ - Error handling can be handled throughout the application. 
+ - NodeJS is used to speedup the demo.
